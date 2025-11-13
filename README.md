@@ -1,7 +1,12 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+My name is Destiny, and I am Full Stack Web Developer interested in all things JavaScript, PHP Laravel and Wordpress!
+- 🔭 I’m currently working on Co-Trader, an AI powered bot that helps forex 
+     - and crypto traders achieve discipline while navigating the market
+- 🌱 I recently built De Manchys Lounge website, to the help the owners of
+      - De Manchys reach a wider audience of customers.
+- 👯 I’m looking to collaborate on building more AI powered web apps.
+     -Send me your ideas to deesystems247@gmail.com
 <!--
 **DestinySolomon/DestinySolomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
